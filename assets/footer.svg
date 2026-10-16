@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" fill="none" role="img" aria-label="Thanks for stopping by">
+<title>Thanks for stopping by</title>
+<style>
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+.mono { font-family: 'JetBrains Mono', 'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace; }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@keyframes pulse { 0% { opacity: .9; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+.fade-up { opacity: 0; animation: fadeUp .8s cubic-bezier(.2,.7,.2,1) forwards; }
+.fade-in { opacity: 0; animation: fadeIn .8s ease forwards; }
+
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; opacity: 1 !important; transform: none !important; }
+}
+</style>
+
+<defs><clipPath id="t"><rect x="79.2" y="30" height="30" width="0"><animate attributeName="width" values="0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;124.8;134.4;144.0;153.6;163.2;172.8;182.4;192.0;201.6;211.2;220.8;230.4;240.0;249.6;259.2;268.8;278.4;288.0;297.6;307.2;316.8;326.4;336.0;345.6;355.2;364.8;374.4;384.0;393.6;403.2;412.8;422.4;432.0;441.6;451.2;460.8;470.4;480.0;489.6;499.2;508.8" begin="0.4s" dur="2.6s" calcMode="discrete" fill="freeze"/></rect></clipPath></defs>
+<rect x=".5" y=".5" width="1199" height="109" rx="18" fill="#0D1117" stroke="#30363D"/>
+<text class="mono" x="60" y="52" font-size="16" fill="#7EE787">$</text>
+<text class="mono" x="79.2" y="52" font-size="16" fill="#E6EDF3" clip-path="url(#t)">echo &quot;Thanks for stopping by. Let&#x27;s build something.&quot;</text>
+<rect x="592.0" y="38" width="9" height="18" fill="#7EE787" style="animation: blink 1s step-end infinite;"/>
+<text class="mono fade-in" style="animation-delay:3.2s" x="60" y="82" font-size="14" fill="#8B949E">→ camiloraphaelzuletawolff@gmail.com  ·  linkedin.com/in/camilo-raphael-zuleta-wolff</text>
+
+</svg>
