@@ -4,7 +4,7 @@
 
 <br/>
 
-<p><a href="https://www.linkedin.com/in/camilo-raphael-zuleta-wolff/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:camiloraphaelzuletawolff@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/Open_to-Remote_·_Cochabamba-7EE787?style=for-the-badge&labelColor=0D1117" alt="Open to remote or Cochabamba"/> <img src="https://komarev.com/ghpvc/?username=CamiloRaphaelZuletaWolff&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views"/></p>
+<p><a href="https://www.linkedin.com/in/camilo-raphael-zuleta-wolff/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:camiloraphaelzuletawolff@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/Open_to-Remote_·_La Paz-7EE787?style=for-the-badge&labelColor=0D1117" alt="Open to remote or La Paz"/> <img src="https://komarev.com/ghpvc/?username=CamiloRaphaelZuletaWolff&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views"/></p>
 
 </div>
 
